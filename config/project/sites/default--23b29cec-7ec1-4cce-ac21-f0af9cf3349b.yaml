@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'DDEV Vite Retry'
+primary: true
+siteGroup: 84fa1655-cb3a-41a7-b5a2-fc92e0503f3b # DDEV Vite Retry
+sortOrder: 1

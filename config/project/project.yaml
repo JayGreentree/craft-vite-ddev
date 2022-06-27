@@ -1,0 +1,27 @@
+dateModified: 1656357395
+email:
+  fromEmail: ryan@craftquest.io
+  fromName: 'DDEV Vite Retry'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    23b29cec-7ec1-4cce-ac21-f0af9cf3349b: 'DDEV Vite Retry' # DDEV Vite Retry
+    84fa1655-cb3a-41a7-b5a2-fc92e0503f3b: 'DDEV Vite Retry' # DDEV Vite Retry
+    c2c7eceb-bbf3-4219-9f2b-fb85582b7f41: Common # Common
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'DDEV Vite Retry'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
